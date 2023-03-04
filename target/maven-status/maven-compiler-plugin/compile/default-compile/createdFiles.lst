@@ -1,0 +1,10 @@
+marz/kafka/lean_workflow/LeanKafkaWorkflow$ApplicationMessageHandlerImpl.class
+marz/kafka/lean_workflow/SimpleConsumer.class
+marz/kafka/lean_workflow/SimpleProducer.class
+marz/kafka/lean_workflow/LeanKafkaWorkflow.class
+marz/kafka/lean_workflow/MessageHelper.class
+marz/kafka/lean_workflow/KafkaMessageHandlerImpl.class
+marz/kafka/lean_workflow/AbstractSimpleKafka.class
+marz/kafka/lean_workflow/KafkaMessageHandler.class
+marz/kafka/lean_workflow/AbstractSimpleKafka$1.class
+marz/kafka/lean_workflow/PropertiesHelper.class
